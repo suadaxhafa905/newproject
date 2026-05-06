@@ -19,24 +19,3 @@ public class Hooks {
     }
 }
 
-
-
-
-/*
-public class Hooks {
-
-    public static LoginPage loginPage;
-
-    @Before
-    public void setUp() {
-        DriverFactory.initDriver();
-        loginPage = new LoginPage(DriverFactory.getDriver());
-    }
-
-    @After
-    public void tearDown() {
-        DriverFactory.quitDriver();
-    }
-}
-
- */

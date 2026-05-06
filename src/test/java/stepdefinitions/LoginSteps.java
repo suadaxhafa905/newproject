@@ -23,25 +23,3 @@ public class LoginSteps {
     }
 }
 
-/*
-import core.config.ConfigReader;
-import core.driver.DriverFactory;
-import io.cucumber.java.en.Given;
-import pages.LoginPage;
-
-public class LoginSteps {
-
-    LoginPage loginPage = new LoginPage(DriverFactory.getDriver());
-
-    @Given("I login to the system")
-    public void loginToSystem() {
-        loginPage.open(ConfigReader.get("baseUrl"));
-
-        loginPage.login(
-                ConfigReader.get("username"),
-                ConfigReader.get("password")
-        );
-    }
-}
-
- */
