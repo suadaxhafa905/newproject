@@ -1,0 +1,44 @@
+package runners;
+import io.cucumber.testng.AbstractTestNGCucumberTests;
+import io.cucumber.testng.CucumberOptions;
+
+@CucumberOptions(
+        features = "src/test/resources/features/login.feature",
+        glue = {"stepdefinitions",
+                "core.driver",
+                "core.hooks",
+                "pages"},
+        monochrome = true,
+        plugin = {
+                "pretty",
+                "html:target/cucumberReports/HtmlReport.html",
+                "json:target/cucumberReports/Cucumber.json",
+                "junit:target/cucumberReports/Cucumber.xml",
+                "rerun:target/cucumberReports/rerun.txt"
+        },
+        tags = "@suada"
+)
+public class TestRunner extends AbstractTestNGCucumberTests  {
+}
+
+
+/*
+import org.junit.runner.RunWith;
+import io.cucumber.junit.Cucumber;
+import io.cucumber.junit.CucumberOptions;
+
+@RunWith(Cucumber.class)
+@CucumberOptions(
+        features = "src/test/resources/features",
+        glue = {"stepdefinitions", "core.hooks"},
+        plugin = {
+                "pretty",
+                "html:target/report.html"
+        }
+)
+public class TestRunner {
+}
+
+ */
+
+
