@@ -18,6 +18,6 @@ import io.cucumber.testng.CucumberOptions;
         },
         tags = "@suada"
 )
-public class TestRunner extends AbstractTestNGCucumberTests  {
+public class TestRunner_Search extends AbstractTestNGCucumberTests  {
 }
 
