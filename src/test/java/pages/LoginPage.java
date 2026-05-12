@@ -6,6 +6,11 @@ import org.openqa.selenium.WebDriver;
 public class LoginPage extends BasePage {
 
     // Locators
+
+    private final By openLoginButton =
+            By.xpath("//a[contains(text(),'Login')]");
+
+
     private final By usernameInput =
             By.id("username");
 
@@ -13,7 +18,7 @@ public class LoginPage extends BasePage {
             By.id("password");
 
     private final By loginButton =
-            By.id("loginButton");
+            By.xpath("//form[@id='login-form']//button[@type='submit']");
 
     public LoginPage(WebDriver driver) {
         super(driver);
@@ -21,6 +26,11 @@ public class LoginPage extends BasePage {
 
     public void open(String url) {
         openUrl(url);
+    }
+
+
+    public void clickOpenLogin() {
+        click(openLoginButton);
     }
 
     public void enterUsername(String username) {
@@ -36,6 +46,8 @@ public class LoginPage extends BasePage {
     }
 
     public void login(String username, String password) {
+
+        clickOpenLogin();
 
         enterUsername(username);
 

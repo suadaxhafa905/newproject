@@ -1,15 +1,18 @@
 package stepdefinitions;
 
+import core.assertions.SoftAssertHelper;
 import core.config.ConfigReader;
 import core.driver.DriverFactory;
+import core.utils.ExcelReader;
 import io.cucumber.java.en.*;
-import org.testng.asserts.SoftAssert;
 import pages.RegisterPage;
+
+import java.util.Map;
 
 public class RegisterSteps {
 
     RegisterPage registerPage;
-    SoftAssert softAssert;
+    SoftAssertHelper softAssert;
 
     @Given("User is on register page")
     public void userIsOnRegisterPage() {
@@ -18,35 +21,27 @@ public class RegisterSteps {
                 DriverFactory.getDriver()
         );
 
-        softAssert = new SoftAssert();
+        softAssert = new SoftAssertHelper();
 
         registerPage.open(
                 ConfigReader.get("baseUrl") + "/signup"
         );
     }
 
-    @When("User enters username {string}")
-    public void userEntersUsername(String username) {
+    @When("User fills register form with test data {string}")
+    public void userFillsRegisterFormWithTestData(String testCase) {
 
-        registerPage.enterUsername(username);
-    }
+        Map<String, String> data =
+                ExcelReader.getTestData(
+                        "src/test/resources/testdata/RegisterData.xlsx",
+                        "Register",
+                        testCase
+                );
 
-    @And("User enters email {string}")
-    public void userEntersEmail(String email) {
-
-        registerPage.enterEmail(email);
-    }
-
-    @And("User enters password {string}")
-    public void userEntersPassword(String password) {
-
-        registerPage.enterPassword(password);
-    }
-
-    @And("User enters confirm password {string}")
-    public void userEntersConfirmPassword(String confirmPassword) {
-
-        registerPage.enterConfirmPassword(confirmPassword);
+        registerPage.enterUsername(data.get("username"));
+        registerPage.enterEmail(data.get("email"));
+        registerPage.enterPassword(data.get("password"));
+        registerPage.enterConfirmPassword(data.get("confirmPassword"));
     }
 
     @And("User clicks create account button")
@@ -55,29 +50,26 @@ public class RegisterSteps {
         registerPage.clickCreateAccount();
     }
 
-    @Then("Account should be created successfully")
-    public void accountShouldBeCreatedSuccessfully() {
+    @Then("Register error message should be displayed for test data {string}")
+    public void registerErrorMessageShouldBeDisplayedForTestData(String testCase) {
 
-        System.out.println("Account created successfully");
-    }
+        Map<String, String> data =
+                ExcelReader.getTestData(
+                        "src/test/resources/testdata/RegisterData.xlsx",
+                        "Register",
+                        testCase
+                );
 
-    @Then("Error messages should be displayed")
-    public void errorMessagesShouldBeDisplayed() {
-
- //       System.out.println(registerPage.getPageText());
-
-/*
-        softAssert.assertEquals(
-                registerPage.getEmailError(),
-                "Invalid email"
-        );
-
- */
+        String actualMessage =
+                registerPage.getPasswordError();
 
         softAssert.assertTrue(
-                registerPage.getPasswordError()
-                        .contains("Passwords do not match"),
-                "Password error message is not displayed correctly"
+                testCase,
+                "Validate register error message",
+                actualMessage.contains(data.get("expectedMessage")),
+                data.get("expectedMessage"),
+                actualMessage,
+                "HIGH"
         );
 
         softAssert.assertAll();

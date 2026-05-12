@@ -12,7 +12,7 @@ Feature: Register functionality
 
 
 
-  @RegisterNegative
+  @RegisterNegativess
   Scenario: User enters invalid register data
 
     Given User is on register page
@@ -22,3 +22,25 @@ Feature: Register functionality
     And User enters confirm password "999999"
     And User clicks create account button
     Then Error messages should be displayed
+
+
+  @RegisterNegative
+  Scenario Outline: Register validation tests
+
+    Given User is on register page
+    When User fills register form with test data "<testCase>"
+    And User clicks create account button
+    Then Register error message should be displayed for test data "<testCase>"
+
+    Examples:
+      | testCase |
+      | TC_REGISTER_001 |
+      | TC_REGISTER_002 |
+      | TC_REGISTER_003 |
+      | TC_REGISTER_004 |
+      | TC_REGISTER_005 |
+      | TC_REGISTER_006 |
+      | TC_REGISTER_007 |
+      | TC_REGISTER_008 |
+      | TC_REGISTER_009 |
+      | TC_REGISTER_010 |

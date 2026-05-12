@@ -1,9 +1,9 @@
 package core.hooks;
 
-
 import core.driver.DriverFactory;
 import core.utils.ReportManager;
 import core.utils.ScreenshotUtil;
+import core.utils.WordBugReportManager;
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
 import io.cucumber.java.Scenario;
@@ -38,15 +38,15 @@ public class Hooks {
         } else {
 
             ReportManager.logPass(
-                    "Scenario Passed: " + scenario.getName()
-            );
+                    "Scenario Passed: " + scenario.getName());
         }
 
         ReportManager.flushReport();
+
+        WordBugReportManager.generateReport();
 
         DriverFactory.quitDriver();
 
         System.out.println("Finished Scenario: " + scenario.getName());
     }
-
 }
