@@ -11,7 +11,7 @@ public class LoginSteps {
     LoginPage loginPage;
 
     @Given("I login to the system")
-    public void loginToSystem() {
+    public void iLoginToTheSystem() {
 
         loginPage = new LoginPage(DriverFactory.getDriver());
 

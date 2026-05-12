@@ -2,70 +2,55 @@ package pages;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
-import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.WebDriverWait;
 
-import java.time.Duration;
+public class RegisterPage extends BasePage {
 
-public class RegisterPage {
+    private final By usernameField = By.name("username");
+    private final By emailField = By.name("email");
+    private final By passwordField = By.name("password");
+    private final By confirmPasswordField = By.name("confirmPassword");
+    private final By createAccountButton = By.xpath("//button[contains(text(),'Create Account')]");
+    private final By passwordError = By.id("pw-match-msg");
+    //private final By passwordError = By.xpath("//*[contains(text(),'Passwords do not match')]");
 
-    WebDriver driver;
-
-    // Locators
-    By usernameField = By.name("username");
-    By emailField = By.name("email");
-    By passwordField = By.name("password");
-    By confirmPasswordField = By.name("confirmPassword");
-    By createAccountButton = By.xpath("//button[contains(text(),'Create Account')]");
-    By emailError = By.xpath("//span[contains(text(),'Invalid email')]");
-    By passwordError = By.xpath("//span[contains(text(),'Passwords do not match')]");
-
-    // Constructor
-    public RegisterPage(WebDriver driver){
-        this.driver = driver;
+    public RegisterPage(WebDriver driver) {
+        super(driver);
     }
 
-    // Actions
-    public void enterUsername(String username){
-        driver.findElement(usernameField).sendKeys(username);
+    public void open(String url) {
+        openUrl(url);
     }
 
-    public void enterEmail(String email){
-        driver.findElement(emailField).sendKeys(email);
+    public void enterUsername(String username) {
+        type(usernameField, username);
     }
 
-    public void enterPassword(String password){
-        driver.findElement(passwordField).sendKeys(password);
+    public void enterEmail(String email) {
+        type(emailField, email);
     }
 
-    public void enterConfirmPassword(String confirmPassword){
-        driver.findElement(confirmPasswordField).sendKeys(confirmPassword);
+    public void enterPassword(String password) {
+        type(passwordField, password);
     }
 
-    public void clickCreateAccount(){
-   //     driver.findElement(createAccountButton).click();
-
-        WebDriverWait wait =
-                new WebDriverWait(driver, Duration.ofSeconds(10));
-
-        WebElement button =
-                wait.until(
-                        ExpectedConditions.elementToBeClickable(
-                                createAccountButton
-                        )
-                );
-
-        button.click();
+    public void enterConfirmPassword(String confirmPassword) {
+        type(confirmPasswordField, confirmPassword);
     }
 
-    public String getEmailError(){
-
-        return driver.findElement(emailError).getText();
+    public void clickCreateAccount() {
+        click(createAccountButton);
+    }
+/*
+    public String getEmailError() {
+        return getText(emailError);
     }
 
-    public String getPasswordError(){
+ */
 
-        return driver.findElement(passwordError).getText();
+    public String getPasswordError() {
+        return getText(passwordError);
+    }
+    public String getPageText() {
+        return driver.getPageSource();
     }
 }

@@ -1,47 +1,46 @@
 package pages;
 
-import com.epam.healenium.SelfHealingDriver;
 import org.openqa.selenium.By;
-import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.WebDriverWait;
-import core.utils.LoggerUtil;
-import org.slf4j.Logger;
+import org.openqa.selenium.WebDriver;
 
-import java.time.Duration;
+public class LoginPage extends BasePage {
 
-public class LoginPage {
+    // Locators
+    private final By usernameInput =
+            By.id("username");
 
-    private final SelfHealingDriver driver;
-    private final WebDriverWait wait;
+    private final By passwordInput =
+            By.id("password");
 
-    private static final Logger logger =
-            LoggerUtil.getLogger(LoginPage.class);
+    private final By loginButton =
+            By.id("loginButton");
 
-    private final By button = By.xpath("//a[text()='Login']");
-    private final By username = By.xpath("//input[@name='username']");
-    private final By password = By.xpath("//input[@name='password']");
-    private final By loginBtn = By.className("btn-submit");
-
-    public LoginPage(SelfHealingDriver driver) {
-        this.driver = driver;
-        this.wait = new WebDriverWait(driver, Duration.ofSeconds(10));
-        logger.info("LoginPage initialized");
+    public LoginPage(WebDriver driver) {
+        super(driver);
     }
 
     public void open(String url) {
-        logger.info("Opening URL: {}", url);
-        driver.get(url);
+        openUrl(url);
     }
 
-    public void login(String user, String pass) {
-        logger.info("Starting login process");
-        driver.findElement(button).click();
-        logger.info("Clicked login button");
-        wait.until(ExpectedConditions.visibilityOfElementLocated(username)).sendKeys(user);
-        logger.info("Entered username");
-        driver.findElement(password).sendKeys(pass);
-        logger.info("Entered password");
-        driver.findElement(loginBtn).click();
-        logger.info("Clicked submit button");
+    public void enterUsername(String username) {
+        type(usernameInput, username);
+    }
+
+    public void enterPassword(String password) {
+        type(passwordInput, password);
+    }
+
+    public void clickLogin() {
+        click(loginButton);
+    }
+
+    public void login(String username, String password) {
+
+        enterUsername(username);
+
+        enterPassword(password);
+
+        clickLogin();
     }
 }

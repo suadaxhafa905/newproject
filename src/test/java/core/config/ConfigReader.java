@@ -5,21 +5,44 @@ import java.util.Properties;
 
 public class ConfigReader {
 
-    private static Properties prop = new Properties();
+    private static final Properties prop = new Properties();
 
     static {
+
         try {
+
             InputStream input = ConfigReader.class
                     .getClassLoader()
                     .getResourceAsStream("config.properties");
 
+            if (input == null) {
+                throw new RuntimeException(
+                        "config.properties file not found"
+                );
+            }
+
             prop.load(input);
+
         } catch (Exception e) {
-            e.printStackTrace();
+
+            throw new RuntimeException(
+                    "Failed to load config.properties",
+                    e
+            );
         }
     }
 
     public static String get(String key) {
-        return prop.getProperty(key);
+
+        String value = prop.getProperty(key);
+
+        if (value == null) {
+            throw new RuntimeException(
+                    "Property not found: " + key
+            );
+        }
+
+        return value.trim();
     }
 }
+

@@ -3,22 +3,34 @@ package pages;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
-public class SearchPage {
+public class SearchPage extends BasePage {
 
-    WebDriver driver;
+    private final By searchBox =
+            By.id("search");
 
-    By searchBox = By.id("search");
-    By searchButton = By.id("searchBtn");
+    private final By searchButton =
+            By.id("searchBtn");
 
-    public SearchPage(WebDriver driver){
-        this.driver = driver;
+    public SearchPage(WebDriver driver) {
+        super(driver);
     }
 
-    public void enterSearch(String product){
-        driver.findElement(searchBox).sendKeys(product);
+    public void open(String url) {
+        openUrl(url);
     }
 
-    public void clickSearch(){
-        driver.findElement(searchButton).click();
+    public void enterSearch(String product) {
+        type(searchBox, product);
+    }
+
+    public void clickSearch() {
+        click(searchButton);
+    }
+
+    public void searchProduct(String product) {
+
+        enterSearch(product);
+
+        clickSearch();
     }
 }

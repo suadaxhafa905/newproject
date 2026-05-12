@@ -3,11 +3,10 @@ import io.cucumber.testng.AbstractTestNGCucumberTests;
 import io.cucumber.testng.CucumberOptions;
 
 @CucumberOptions(
-        features = "src/test/resources/features/login.feature",
+        features = "src/test/resources/features",
         glue = {"stepdefinitions",
-                "core.driver",
-                "core.hooks",
-                "pages"},
+                "core.hooks"
+        },
         monochrome = true,
         plugin = {
                 "pretty",
@@ -16,7 +15,7 @@ import io.cucumber.testng.CucumberOptions;
                 "junit:target/cucumberReports/Cucumber.xml",
                 "rerun:target/cucumberReports/rerun.txt"
         },
-        tags = "@suada"
+        tags = "@RegisterNegative"
 )
 public class TestRunner_Login extends AbstractTestNGCucumberTests  {
 }

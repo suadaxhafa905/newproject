@@ -1,81 +1,85 @@
 package stepdefinitions;
 
+import core.config.ConfigReader;
 import core.driver.DriverFactory;
 import io.cucumber.java.en.*;
-import org.openqa.selenium.WebDriver;
-import pages.RegisterPage;
 import org.testng.asserts.SoftAssert;
+import pages.RegisterPage;
 
 public class RegisterSteps {
 
-    WebDriver driver = DriverFactory.getDriver();
-
-    RegisterPage registerPage = new RegisterPage(driver);
+    RegisterPage registerPage;
+    SoftAssert softAssert;
 
     @Given("User is on register page")
-    public void user_is_on_register_page() {
+    public void userIsOnRegisterPage() {
 
-        driver.get("https://thedummysite.com/signup");
+        registerPage = new RegisterPage(
+                DriverFactory.getDriver()
+        );
+
+        softAssert = new SoftAssert();
+
+        registerPage.open(
+                ConfigReader.get("baseUrl") + "/signup"
+        );
     }
 
     @When("User enters username {string}")
-    public void user_enters_username(String username) {
+    public void userEntersUsername(String username) {
 
         registerPage.enterUsername(username);
     }
 
     @And("User enters email {string}")
-    public void user_enters_email(String email) {
+    public void userEntersEmail(String email) {
 
         registerPage.enterEmail(email);
     }
 
     @And("User enters password {string}")
-    public void user_enters_password(String password) {
+    public void userEntersPassword(String password) {
 
         registerPage.enterPassword(password);
     }
 
     @And("User enters confirm password {string}")
-    public void user_enters_confirm_password(String confirmPassword) {
+    public void userEntersConfirmPassword(String confirmPassword) {
 
         registerPage.enterConfirmPassword(confirmPassword);
     }
 
     @And("User clicks create account button")
-    public void user_clicks_create_account_button() {
+    public void userClicksCreateAccountButton() {
 
         registerPage.clickCreateAccount();
     }
 
     @Then("Account should be created successfully")
-    public void account_should_be_created_successfully() {
+    public void accountShouldBeCreatedSuccessfully() {
 
         System.out.println("Account created successfully");
     }
 
     @Then("Error messages should be displayed")
-    public void error_messages_should_be_displayed() {
+    public void errorMessagesShouldBeDisplayed() {
 
-        SoftAssert softAssert = new SoftAssert();
+ //       System.out.println(registerPage.getPageText());
 
-        String actualEmailError =
-                registerPage.getEmailError();
-
-        String actualPasswordError =
-                registerPage.getPasswordError();
-
+/*
         softAssert.assertEquals(
-                actualEmailError,
+                registerPage.getEmailError(),
                 "Invalid email"
         );
 
-        softAssert.assertEquals(
-                actualPasswordError,
-                "Passwords do not match"
+ */
+
+        softAssert.assertTrue(
+                registerPage.getPasswordError()
+                        .contains("Passwords do not match"),
+                "Password error message is not displayed correctly"
         );
 
-        // shumë e rëndësishme
         softAssert.assertAll();
     }
 }

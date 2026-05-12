@@ -1,73 +1,4 @@
 package core.utils;
-/*
-import org.openqa.selenium.OutputType;
-import org.openqa.selenium.TakesScreenshot;
-import org.openqa.selenium.io.FileHandler;
-import com.epam.healenium.SelfHealingDriver;
-
-import java.io.File;
-import java.io.IOException;
-
-public class ScreenshotUtil {
-
-    public static void takeScreenshot(SelfHealingDriver driver, String testName) {
-
-        File src = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
-
-        File dest = new File("target/screenshots/" + testName + ".png");
-
-        try {
-            FileHandler.copy(src, dest);
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-    }
-}
-
- */
-
-/*
-import org.openqa.selenium.OutputType;
-import org.openqa.selenium.TakesScreenshot;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.io.FileHandler;
-
-import java.io.File;
-import java.io.IOException;
-
-public class ScreenshotUtil {
-
-    public static void takeScreenshot(WebDriver driver, String testName) {
-
-        String safeName = testName.replaceAll(" ", "_");
-
-        File src =
-                ((TakesScreenshot) driver)
-                        .getScreenshotAs(OutputType.FILE);
-
-        File dest =
-                new File("target/screenshots/" + safeName + ".png");
-
-        // krijon folder automatikisht
-        dest.getParentFile().mkdirs();
-
-        try {
-
-            FileHandler.copy(src, dest);
-
-            System.out.println(
-                    "Screenshot saved: " + dest.getAbsolutePath()
-            );
-
-        } catch (IOException e) {
-
-            e.printStackTrace();
-        }
-    }
-}
-
- */
-
 
 import com.epam.healenium.SelfHealingDriver;
 import org.openqa.selenium.OutputType;
@@ -80,35 +11,38 @@ import java.io.IOException;
 
 public class ScreenshotUtil {
 
-    public static void takeScreenshot(WebDriver driver, String testName) {
+    public static String takeScreenshot(WebDriver driver, String testName) {
 
-        String safeName = testName.replaceAll(" ", "_");
+        String safeName = testName.replaceAll("[^a-zA-Z0-9]", "_");
 
-        // Merr driver-in real nga Healenium
-        WebDriver delegate =
-                ((SelfHealingDriver) driver).getDelegate();
+        WebDriver screenshotDriver;
+
+        if (driver instanceof SelfHealingDriver) {
+            screenshotDriver = ((SelfHealingDriver) driver).getDelegate();
+        } else {
+            screenshotDriver = driver;
+        }
 
         File src =
-                ((TakesScreenshot) delegate)
+                ((TakesScreenshot) screenshotDriver)
                         .getScreenshotAs(OutputType.FILE);
 
-        File dest =
-                new File("target/screenshots/" + safeName + ".png");
+        String path =
+                "reports/screenshots/" + safeName + ".png";
 
-        // krijon folderin automatikisht
+        File dest = new File(path);
+
         dest.getParentFile().mkdirs();
 
         try {
-
             FileHandler.copy(src, dest);
 
-            System.out.println(
-                    "Screenshot saved successfully"
-            );
+            System.out.println("Screenshot saved: " + dest.getAbsolutePath());
 
         } catch (IOException e) {
-
-            e.printStackTrace();
+            throw new RuntimeException("Failed to save screenshot", e);
         }
+
+        return path;
     }
 }

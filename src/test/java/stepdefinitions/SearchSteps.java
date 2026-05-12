@@ -1,5 +1,7 @@
 package stepdefinitions;
 
+import core.config.ConfigReader;
+import core.driver.DriverFactory;
 import io.cucumber.java.en.*;
 import pages.SearchPage;
 
@@ -8,19 +10,25 @@ public class SearchSteps {
     SearchPage searchPage;
 
     @Given("User is on search page")
-    public void user_is_on_search_page() {
+    public void userIsOnSearchPage() {
 
+        searchPage = new SearchPage(
+                DriverFactory.getDriver()
+        );
+
+        searchPage.open(
+                ConfigReader.get("baseUrl") + "/search"
+        );
     }
 
     @When("User searches for {string}")
-    public void user_searches_for(String product) {
+    public void userSearchesFor(String product) {
 
-        searchPage.enterSearch(product);
-        searchPage.clickSearch();
+        searchPage.searchProduct(product);
     }
 
     @Then("Search results should be displayed")
-    public void search_results_should_be_displayed() {
+    public void searchResultsShouldBeDisplayed() {
 
     }
 }
