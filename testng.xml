@@ -1,11 +1,9 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 
-<suite name="Automation Suite" parallel="methods" thread-count="3">
-
-    <test name="Cucumber Tests">
+<suite name="Smoke Suite" parallel="methods" thread-count="3">
+    <test name="Smoke Tests">
         <classes>
-            <class name="runners.TestRunner_Login"/>
+            <class name="runners.SmokeTestRunner"/>
         </classes>
     </test>
-
 </suite>

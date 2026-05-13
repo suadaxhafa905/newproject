@@ -1,3 +1,5 @@
+@UI
+@Register
 
 Feature: Register functionality
   @Register
@@ -24,7 +26,8 @@ Feature: Register functionality
     Then Error messages should be displayed
 
 
-  @RegisterNegative
+
+  @Smoke @Regression @Negative
   Scenario Outline: Register validation tests
 
     Given User is on register page

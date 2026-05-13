@@ -8,6 +8,46 @@ public class ConfigReader {
     private static final Properties prop = new Properties();
 
     static {
+        try {
+            String environment = System.getProperty("environment", "test");
+
+            String configFile =
+                    "config-" + environment + ".properties";
+
+            InputStream input =
+                    ConfigReader.class
+                            .getClassLoader()
+                            .getResourceAsStream(configFile);
+
+            if (input == null) {
+                throw new RuntimeException(
+                        "Config file not found: " + configFile
+                );
+            }
+
+            prop.load(input);
+
+        } catch (Exception e) {
+            throw new RuntimeException(
+                    "Failed to load configuration file",
+                    e
+            );
+        }
+    }
+
+    public static String get(String key) {
+        return prop.getProperty(key);
+    }
+}
+/*
+import java.io.InputStream;
+import java.util.Properties;
+
+public class ConfigReader {
+
+    private static final Properties prop = new Properties();
+
+    static {
 
         try {
 
@@ -45,4 +85,6 @@ public class ConfigReader {
         return value.trim();
     }
 }
+
+ */
 

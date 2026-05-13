@@ -14,6 +14,7 @@ public class RegisterSteps {
     RegisterPage registerPage;
     SoftAssertHelper softAssert;
 
+
     @Given("User is on register page")
     public void userIsOnRegisterPage() {
 
@@ -59,9 +60,12 @@ public class RegisterSteps {
                         "Register",
                         testCase
                 );
-
+        System.out.println("DATA FROM EXCEL: " + data);
+        System.out.println("ERROR TYPE: " + data.get("errorType"));
         String actualMessage =
-                registerPage.getPasswordError();
+                registerPage.getErrorMessage(
+                        data.get("errorType")
+                );
 
         softAssert.assertTrue(
                 testCase,

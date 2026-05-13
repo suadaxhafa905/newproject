@@ -1,4 +1,4 @@
-@Ab
+@Api
 Feature: API testing
 
   Scenario: Validate API endpoint status

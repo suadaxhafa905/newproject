@@ -12,6 +12,10 @@ public class RegisterPage extends BasePage {
     private final By createAccountButton = By.xpath("//button[contains(text(),'Create Account')]");
     private final By passwordError = By.id("pw-match-msg");
     //private final By passwordError = By.xpath("//*[contains(text(),'Passwords do not match')]");
+    private final By emailError = By.id("email-msg");
+
+    private final By usernameError = By.id("username-msg");
+
 
     public RegisterPage(WebDriver driver) {
         super(driver);
@@ -47,10 +51,51 @@ public class RegisterPage extends BasePage {
 
  */
 
-    public String getPasswordError() {
-        return getText(passwordError);
-    }
     public String getPageText() {
         return driver.getPageSource();
+    }
+
+
+    public String getErrorMessage(String errorType) {
+
+        if (errorType == null) {
+            throw new RuntimeException("errorType is missing from Excel");
+        }
+
+        switch (errorType.toLowerCase()) {
+
+            case "password":
+                return getText(passwordError);
+
+            case "email":
+                return getNativeValidationMessage(emailField);
+
+            case "username":
+                return getNativeValidationMessage(usernameField);
+
+            default:
+                throw new RuntimeException(
+                        "Invalid error type: " + errorType
+                );
+        }
+    }
+/*
+    private String getValidationMessage(By locator) {
+
+        return (String) jsExecute("return arguments[0].validationMessage;", find(locator)
+        );
+    }
+
+ */
+
+
+    private String getNativeValidationMessage(By locator) {
+
+        return (String)
+                ((org.openqa.selenium.JavascriptExecutor) driver)
+                        .executeScript(
+                                "return arguments[0].validationMessage;",
+                                driver.findElement(locator)
+                        );
     }
 }

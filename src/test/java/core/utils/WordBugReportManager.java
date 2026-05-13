@@ -1,6 +1,7 @@
 package core.utils;
 
 import core.config.ConfigReader;
+import core.context.ExecutionInfo;
 import core.driver.DriverFactory;
 import org.apache.poi.util.Units;
 import org.apache.poi.xwpf.usermodel.*;
@@ -129,13 +130,20 @@ public class WordBugReportManager {
         table.getRow(4).getCell(0).setText("Use Healenium");
         table.getRow(4).getCell(1).setText(ConfigReader.get("useHealenium"));
 
+    //    table.getRow(5).getCell(0).setText("Browser Version");
+        System.out.println("Browser version in Word: " + ExecutionInfo.getBrowserVersion());
         table.getRow(5).getCell(0).setText("Browser Version");
-
+        table.getRow(5).getCell(1).setText(
+                ExecutionInfo.getBrowserVersion()
+        );
+/*
         table.getRow(5).getCell(1).setText(
                 ((HasCapabilities) DriverFactory.getDriver())
                         .getCapabilities()
                         .getBrowserVersion()
         );
+
+ */
     }
 
     private static void addBugSection(

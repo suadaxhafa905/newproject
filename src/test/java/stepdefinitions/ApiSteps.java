@@ -8,6 +8,7 @@ import core.utils.JsonReader;
 import io.cucumber.java.en.*;
 import io.restassured.response.Response;
 import core.context.ScenarioContext;
+import core.api.ResponseHelper;
 
 public class ApiSteps {
 
@@ -93,11 +94,17 @@ public class ApiSteps {
 
         if (response.getStatusCode() >= 200 && response.getStatusCode() < 300) {
 
-            String userId = response.jsonPath().getString("id");
+       //     String userId = response.jsonPath().getString("id");
 
-            ScenarioContext.set("userId", userId);
+          //  ScenarioContext.set("userId", userId);
 
-            System.out.println("Stored userId in ScenarioContext: " + userId);
+        //    System.out.println("Stored userId in ScenarioContext: " + userId);
+
+            ResponseHelper.saveFieldFromResponse(
+                    response,
+                    "id",
+                    "userId"
+            );
         }
     }
 

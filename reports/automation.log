@@ -1,0 +1,380 @@
+2026-05-13 14:13:34 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-13 14:13:34 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-13 14:13:47 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-13 14:13:47 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-13 14:13:47 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-13 14:13:48 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-13 14:13:48 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-13 14:13:48 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-13 14:13:48 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-13 14:13:48 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-13 14:14:14 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-13 14:14:14 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-13 14:14:14 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-13 14:14:14 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-13 14:14:14 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-13 14:14:14 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-13 14:14:15 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-13 14:14:16 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-13 14:14:16 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-13 14:14:17 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-13 14:23:11 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-13 14:23:11 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-13 14:23:11 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-13 14:23:11 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-13 14:23:11 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-13 14:23:11 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-13 14:23:11 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-13 14:23:11 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-13 14:23:11 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-13 14:23:11 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-13 14:23:11 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-13 14:23:11 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-13 14:23:11 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-13 14:23:11 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-13 14:23:11 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-13 14:23:11 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-13 14:23:11 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-13 14:23:11 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-13 14:23:11 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-13 14:23:11 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-13 14:23:11 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-13 14:23:11 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-13 14:23:11 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-13 14:23:11 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-13 14:23:11 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-13 14:23:11 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-13 14:23:11 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-13 14:23:11 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-13 14:23:11 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-13 14:23:11 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-13 14:23:25 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-13 14:23:25 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-13 14:23:25 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-13 14:23:25 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-13 14:23:26 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-13 14:23:26 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-13 14:23:26 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-13 14:23:26 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-13 14:23:27 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-13 14:23:27 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-13 14:23:27 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-13 14:23:27 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-13 14:23:27 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-13 14:23:27 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-13 14:23:27 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-13 14:23:27 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-13 14:23:27 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-13 14:23:27 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-13 14:23:28 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-13 14:23:28 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-13 14:23:50 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-13 14:23:50 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-13 14:23:50 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-13 14:23:50 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-13 14:23:50 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-13 14:23:50 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-13 14:23:50 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-13 14:23:50 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-13 14:23:50 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-13 14:23:50 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-13 14:23:54 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-13 14:23:54 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-13 14:23:54 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-13 14:23:54 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-13 14:23:55 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-13 14:23:55 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-13 14:23:55 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-13 14:23:55 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-13 14:23:55 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-13 14:23:55 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-13 14:27:33 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-13 14:27:33 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-13 14:27:33 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-13 14:27:33 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-13 14:27:33 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-13 14:27:33 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-13 14:27:33 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-13 14:27:33 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-13 14:27:33 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-13 14:27:33 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-13 14:27:33 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-13 14:27:33 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-13 14:27:33 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-13 14:27:33 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-13 14:27:33 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-13 14:27:33 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-13 14:27:33 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-13 14:27:33 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-13 14:27:33 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-13 14:27:33 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-13 14:27:33 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-13 14:27:33 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-13 14:27:33 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-13 14:27:33 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-13 14:27:33 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-13 14:27:33 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-13 14:27:33 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-13 14:27:33 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-13 14:27:33 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-13 14:27:33 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-13 14:27:46 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-13 14:27:46 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-13 14:27:47 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-13 14:27:47 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-13 14:27:47 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-13 14:27:47 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-13 14:27:47 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-13 14:27:47 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-13 14:27:48 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-13 14:27:48 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-13 14:27:48 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-13 14:27:48 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-13 14:27:48 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-13 14:27:48 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-13 14:27:48 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-13 14:27:48 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-13 14:27:49 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-13 14:27:49 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-13 14:27:49 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-13 14:27:49 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-13 14:28:11 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-13 14:28:11 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-13 14:28:12 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-13 14:28:12 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-13 14:28:12 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-13 14:28:12 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-13 14:28:12 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-13 14:28:12 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-13 14:28:12 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-13 14:28:12 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-13 14:28:16 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-13 14:28:16 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-13 14:28:16 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-13 14:28:16 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-13 14:28:19 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-13 14:28:19 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-13 14:28:19 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-13 14:28:19 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-13 14:28:20 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-13 14:28:20 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-13 14:35:47 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-13 14:35:47 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-13 14:35:47 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-13 14:35:47 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-13 14:35:47 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-13 14:35:47 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-13 14:35:47 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-13 14:35:47 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-13 14:35:47 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-13 14:35:47 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-13 14:35:47 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-13 14:35:47 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-13 14:35:47 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-13 14:35:47 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-13 14:35:47 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-13 14:35:47 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-13 14:35:47 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-13 14:35:47 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-13 14:35:47 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-13 14:35:47 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-13 14:35:47 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-13 14:35:47 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-13 14:35:47 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-13 14:35:47 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-13 14:35:47 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-13 14:35:47 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-13 14:35:47 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-13 14:35:47 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-13 14:35:47 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-13 14:35:47 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-13 14:36:00 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-13 14:36:00 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-13 14:36:01 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-13 14:36:01 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-13 14:36:01 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-13 14:36:01 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-13 14:36:02 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-13 14:36:02 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-13 14:36:02 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-13 14:36:02 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-13 14:36:02 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-13 14:36:02 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-13 14:36:02 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-13 14:36:02 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-13 14:36:03 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-13 14:36:03 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-13 14:36:03 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-13 14:36:03 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-13 14:36:03 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-13 14:36:03 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-13 14:36:06 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_009
+2026-05-13 14:36:08 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_009
+2026-05-13 14:36:08 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_010
+2026-05-13 14:36:08 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_010
+2026-05-13 14:36:08 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_008
+2026-05-13 14:36:08 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_008
+2026-05-13 14:36:09 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_006
+2026-05-13 14:36:09 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_003
+2026-05-13 14:36:09 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_003
+2026-05-13 14:36:09 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_006
+2026-05-13 14:36:09 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_001
+2026-05-13 14:36:09 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_001
+2026-05-13 14:36:10 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_004
+2026-05-13 14:36:10 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_004
+2026-05-13 14:36:10 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_007
+2026-05-13 14:36:10 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_007
+2026-05-13 14:36:11 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_005
+2026-05-13 14:36:11 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_005
+2026-05-13 14:36:11 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_002
+2026-05-13 14:36:11 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_002
+2026-05-13 14:36:17 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_001
+2026-05-13 14:36:17 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_001
+2026-05-13 14:36:17 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_010
+2026-05-13 14:36:17 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_010
+2026-05-13 14:36:18 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_003
+2026-05-13 14:36:18 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_003
+2026-05-13 14:36:18 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_006
+2026-05-13 14:36:18 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_009
+2026-05-13 14:36:18 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_009
+2026-05-13 14:36:18 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_006
+2026-05-13 14:36:19 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_007
+2026-05-13 14:36:19 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_002
+2026-05-13 14:36:19 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_002
+2026-05-13 14:36:19 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_007
+2026-05-13 14:36:20 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_004
+2026-05-13 14:36:20 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_004
+2026-05-13 14:36:20 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_008
+2026-05-13 14:36:20 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_005
+2026-05-13 14:36:20 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_008
+2026-05-13 14:36:20 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_005
+2026-05-13 14:36:23 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-13 14:36:23 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-13 14:36:24 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-13 14:36:24 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-13 14:36:24 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-13 14:36:24 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-13 14:36:24 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-13 14:36:24 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-13 14:36:24 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-13 14:36:24 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-13 14:36:30 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-13 14:36:30 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-13 14:36:32 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-13 14:36:32 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-13 14:36:32 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-13 14:36:32 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-13 14:36:32 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-13 14:36:32 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-13 14:36:32 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-13 14:36:32 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-13 14:37:19 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-13 14:37:19 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-13 14:37:19 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-13 14:37:19 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-13 14:37:19 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-13 14:37:19 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-13 14:37:19 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-13 14:37:19 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-13 14:37:19 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-13 14:37:19 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-13 14:37:19 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-13 14:37:19 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-13 14:37:19 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-13 14:37:19 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-13 14:37:19 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-13 14:37:19 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-13 14:37:19 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-13 14:37:19 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-13 14:37:19 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-13 14:37:20 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-13 14:37:20 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-13 14:37:19 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-13 14:37:19 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-13 14:37:20 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-13 14:37:20 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-13 14:37:20 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-13 14:37:20 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-13 14:37:20 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-13 14:37:20 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-13 14:37:20 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-13 14:37:34 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-13 14:37:34 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-13 14:37:34 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-13 14:37:34 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-13 14:37:34 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-13 14:37:34 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-13 14:37:35 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-13 14:37:35 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-13 14:37:35 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-13 14:37:35 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-13 14:37:35 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-13 14:37:35 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-13 14:37:36 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-13 14:37:36 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-13 14:37:36 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-13 14:37:36 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-13 14:37:36 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-13 14:37:36 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-13 14:37:36 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-13 14:37:36 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-13 14:37:36 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_008
+2026-05-13 14:37:38 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_008
+2026-05-13 14:37:39 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_006
+2026-05-13 14:37:39 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_006
+2026-05-13 14:37:39 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_001
+2026-05-13 14:37:40 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_001
+2026-05-13 14:37:40 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_004
+2026-05-13 14:37:40 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_010
+2026-05-13 14:37:40 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_010
+2026-05-13 14:37:40 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_004
+2026-05-13 14:37:42 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_009
+2026-05-13 14:37:42 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_009
+2026-05-13 14:37:42 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_005
+2026-05-13 14:37:43 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_005
+2026-05-13 14:37:43 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_003
+2026-05-13 14:37:43 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_003
+2026-05-13 14:37:44 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_007
+2026-05-13 14:37:44 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_007
+2026-05-13 14:37:44 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_002
+2026-05-13 14:37:44 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_002
+2026-05-13 14:37:50 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_008
+2026-05-13 14:37:50 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_008
+2026-05-13 14:37:50 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_006
+2026-05-13 14:37:50 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_006
+2026-05-13 14:37:51 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_003
+2026-05-13 14:37:51 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_003
+2026-05-13 14:37:51 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_001
+2026-05-13 14:37:51 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_007
+2026-05-13 14:37:51 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_010
+2026-05-13 14:37:51 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_009
+2026-05-13 14:37:51 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_007
+2026-05-13 14:37:51 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_010
+2026-05-13 14:37:51 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_001
+2026-05-13 14:37:51 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_009
+2026-05-13 14:37:52 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_002
+2026-05-13 14:37:52 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_002
+2026-05-13 14:37:52 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_005
+2026-05-13 14:37:52 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_005
+2026-05-13 14:37:54 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_004
+2026-05-13 14:37:54 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_004
+2026-05-13 14:38:00 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-13 14:38:00 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-13 14:38:00 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-13 14:38:00 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-13 14:38:00 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-13 14:38:00 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-13 14:38:00 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-13 14:38:00 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-13 14:38:01 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-13 14:38:01 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-13 14:38:02 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-13 14:38:02 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-13 14:38:03 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-13 14:38:03 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-13 14:38:03 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-13 14:38:03 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-13 14:38:03 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-13 14:38:03 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-13 14:38:05 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-13 14:38:05 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests

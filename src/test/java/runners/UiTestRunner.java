@@ -6,6 +6,8 @@ import org.testng.annotations.BeforeSuite;
 import core.utils.RetryListener;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Listeners;
+import core.utils.WordBugReportManager;
+import org.testng.annotations.AfterSuite;
 
 @CucumberOptions(
         features = "src/test/resources/features",
@@ -20,20 +22,22 @@ import org.testng.annotations.Listeners;
                 "junit:target/cucumberReports/Cucumber.xml",
                 "rerun:target/cucumberReports/rerun.txt"
         },
-     //   tags = "@RegisterNegative"
-        tags = "@Api"
+       tags = "@Regression"
+   //     tags = "@Api"
 )
 @Listeners(RetryListener.class)
 
-
-
-public class TestRunner_Login extends AbstractTestNGCucumberTests  {
+public class UiTestRunner extends AbstractTestNGCucumberTests  {
 
         @BeforeSuite
         public void cleanReportsBeforeSuite() {
                 ReportCleaner.cleanReports();
         }
 
+        @AfterSuite
+        public void generateWordBugReport() {
+                WordBugReportManager.generateReport();
+        }
 
         @Override
         @DataProvider(parallel = true)

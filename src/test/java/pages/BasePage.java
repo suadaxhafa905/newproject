@@ -2,6 +2,7 @@ package pages;
 
 import core.config.ConfigReader;
 import core.utils.ElementHelper;
+import core.utils.RetryHelper;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
@@ -27,9 +28,19 @@ public class BasePage {
     protected void openUrl(String url) {
         driver.get(url);
     }
-
+/*
     protected void click(By locator) {
         elementHelper.click(locator);
+    }
+
+ */
+
+    protected void click(By locator) {
+
+        RetryHelper.retryAction(
+                () -> elementHelper.click(locator),
+                3
+        );
     }
 
     protected void type(By locator, String text) {
