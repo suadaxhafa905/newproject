@@ -33,16 +33,30 @@ public class WordBugReportManager {
             String step,
             String expected,
             String actual,
+            String module,
+            String page,
             String severity,
+            String priority,
+            String bugType,
+            String url,
+            String browser,
+            String browserVersion,
             String screenshotPath
     ) {
         bugs.add(new String[]{
-                testCase,
-                step,
-                expected,
-                actual,
-                severity,
-                screenshotPath
+                testCase,          // bug[0]
+                step,              // bug[1]
+                expected,          // bug[2]
+                actual,            // bug[3]
+                module,            // bug[4]
+                page,              // bug[5]
+                severity,          // bug[6]
+                priority,          // bug[7]
+                bugType,           // bug[8]
+                url,               // bug[9]
+                browser,           // bug[10]
+                browserVersion,    // bug[11]
+                screenshotPath     // bug[12]
         });
     }
 
@@ -161,7 +175,9 @@ public class WordBugReportManager {
         bugRun.setFontSize(14);
         bugRun.setText("Bug #" + bugNumber);
 
-        XWPFTable table = document.createTable(7, 2);
+       // XWPFTable table = document.createTable(7, 2);
+
+        XWPFTable table = document.createTable(14, 2);
 
         table.getRow(0).getCell(0).setText("Test Case");
         table.getRow(0).getCell(1).setText(bug[0]);
@@ -175,16 +191,38 @@ public class WordBugReportManager {
         table.getRow(3).getCell(0).setText("Actual Result");
         table.getRow(3).getCell(1).setText(bug[3]);
 
-        table.getRow(4).getCell(0).setText("Severity");
+        table.getRow(4).getCell(0).setText("Module");
         table.getRow(4).getCell(1).setText(bug[4]);
 
-        table.getRow(5).getCell(0).setText("Screenshot Path");
+        table.getRow(5).getCell(0).setText("Page");
         table.getRow(5).getCell(1).setText(bug[5]);
 
-        table.getRow(6).getCell(0).setText("Status");
-        table.getRow(6).getCell(1).setText("Open");
+        table.getRow(6).getCell(0).setText("Severity");
+        table.getRow(6).getCell(1).setText(bug[6]);
 
-        addScreenshot(document, bug[5]);
+        table.getRow(7).getCell(0).setText("Priority");
+        table.getRow(7).getCell(1).setText(bug[7]);
+
+        table.getRow(8).getCell(0).setText("Bug Type");
+        table.getRow(8).getCell(1).setText(bug[8]);
+
+        table.getRow(9).getCell(0).setText("Page URL");
+        table.getRow(9).getCell(1).setText(bug[9]);
+
+        table.getRow(10).getCell(0).setText("Browser");
+        table.getRow(10).getCell(1).setText(bug[10]);
+
+        table.getRow(11).getCell(0).setText("Browser Version");
+        table.getRow(11).getCell(1).setText(bug[11]);
+
+        table.getRow(12).getCell(0).setText("Screenshot Path");
+        table.getRow(12).getCell(1).setText(bug[12]);
+
+
+        table.getRow(13).getCell(0).setText("Status");
+        table.getRow(13).getCell(1).setText("Open");
+
+        addScreenshot(document, bug[12]);
     }
 
     private static void addScreenshot(

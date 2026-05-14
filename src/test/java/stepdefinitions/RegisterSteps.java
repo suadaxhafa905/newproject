@@ -66,7 +66,7 @@ public class RegisterSteps {
                 registerPage.getErrorMessage(
                         data.get("errorType")
                 );
-
+/*
         softAssert.assertTrue(
                 testCase,
                 "Validate register error message",
@@ -76,6 +76,24 @@ public class RegisterSteps {
                 "HIGH"
         );
 
+ */
+
+        softAssert.assertTrue(
+                testCase,
+                "Validate register error message",
+                actualMessage.contains(data.get("expectedMessage")),
+                data.get("expectedMessage"),
+                actualMessage,
+                data.get("module"),
+                data.get("page"),
+                data.get("severity"),
+                data.get("priority"),
+                data.get("bugType")
+        );
+
+
         softAssert.assertAll();
     }
+
+
 }

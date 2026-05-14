@@ -3,6 +3,7 @@ package core.api;
 
 import com.github.javafaker.Faker;
 import core.context.ScenarioContext;
+import core.testdata.TestDataFactory;
 
 public class RequestBuilder {
 
@@ -10,14 +11,9 @@ public class RequestBuilder {
 
     public static String createUserBody() {
 
-        String username =
-                "user_" + faker.number().digits(5);
-
-        String email =
-                username + "@test.com";
-
-        String password =
-                "Test123!";
+        String username = TestDataFactory.randomUsername();
+        String email = username + "@test.com";
+        String password = TestDataFactory.randomPassword();
 
         ScenarioContext.set("username", username);
         ScenarioContext.set("email", email);

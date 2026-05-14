@@ -47,3 +47,4 @@ Feature: Register functionality
       | TC_REGISTER_008 |
       | TC_REGISTER_009 |
       | TC_REGISTER_010 |
+      | TC_REGISTER_011 |
