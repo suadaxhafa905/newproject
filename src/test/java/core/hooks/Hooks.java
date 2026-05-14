@@ -10,6 +10,7 @@ import io.cucumber.java.After;
 import io.cucumber.java.Before;
 import io.cucumber.java.Scenario;
 
+import io.qameta.allure.Allure;
 import org.apache.logging.log4j.Logger;
 import core.utils.LoggerHelper;
 
@@ -66,12 +67,27 @@ public class Hooks {
                         screenshotPath
                 );
 
+                try {
+
+                    Allure.addAttachment(
+                            "Failure Screenshot",
+                            new java.io.FileInputStream(screenshotPath)
+                    );
+
+                } catch (Exception e) {
+
+                    e.printStackTrace();
+                }
+
+
             } else {
 
                 ReportManager.logFail(
                         "Scenario Failed: " + scenario.getName()
                 );
             }
+
+
 
         }
         /*else {

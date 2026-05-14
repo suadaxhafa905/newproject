@@ -2749,3 +2749,813 @@
 2026-05-14 09:47:52 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
 2026-05-14 09:48:02 INFO  core.driver.DriverFactory - Driver closed successfully
 2026-05-14 09:48:02 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-14 11:46:15 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-14 11:46:15 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-14 11:46:15 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-14 11:46:15 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-14 11:46:15 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-14 11:46:15 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-14 11:46:15 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-14 11:46:15 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-14 11:46:15 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-14 11:46:15 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-14 11:46:15 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-14 11:46:15 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-14 11:46:15 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-14 11:46:15 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-14 11:46:15 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-14 11:46:15 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-14 11:46:15 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-14 11:46:15 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-14 11:46:15 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-14 11:46:15 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-14 11:46:15 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-14 11:46:15 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-14 11:46:15 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-14 11:46:15 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-14 11:46:15 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-14 11:46:15 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-14 11:46:15 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-14 11:46:15 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-14 11:46:15 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-14 11:46:15 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-14 11:46:32 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-14 11:46:32 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-14 11:46:32 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-14 11:46:32 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-14 11:46:32 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-14 11:46:32 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-14 11:46:32 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-14 11:46:32 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-14 11:46:32 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-14 11:46:32 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-14 11:46:32 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-14 11:46:32 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-14 11:46:32 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-14 11:46:32 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-14 11:46:32 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-14 11:46:32 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-14 11:46:32 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-14 11:46:32 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-14 11:46:32 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-14 11:46:32 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-14 11:46:32 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-14 11:46:32 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-14 11:46:32 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-14 11:46:32 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-14 11:46:32 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-14 11:46:32 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-14 11:46:32 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-14 11:46:32 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-14 11:46:32 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-14 11:46:32 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-14 11:47:19 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-14 11:47:19 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-14 11:47:20 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-14 11:47:20 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-14 11:47:21 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-14 11:47:21 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-14 11:47:23 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-14 11:47:23 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-14 11:47:24 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-14 11:47:24 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-14 11:47:24 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-14 11:47:24 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-14 11:47:26 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-14 11:47:26 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-14 11:47:26 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-14 11:47:26 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-14 11:47:26 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-14 11:47:26 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-14 11:47:26 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_007
+2026-05-14 11:47:26 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_010
+2026-05-14 11:47:27 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_002
+2026-05-14 11:47:27 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_010
+2026-05-14 11:47:27 INFO  core.utils.ElementHelper - Typing text into element: By.name: username
+2026-05-14 11:47:27 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_002
+2026-05-14 11:47:27 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_007
+2026-05-14 11:47:27 INFO  core.utils.ElementHelper - Typing text into element: By.name: username
+2026-05-14 11:47:27 INFO  core.utils.ElementHelper - Typing text into element: By.name: username
+2026-05-14 11:47:28 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_006
+2026-05-14 11:47:28 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_006
+2026-05-14 11:47:28 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_001
+2026-05-14 11:47:28 INFO  core.utils.ElementHelper - Typing text into element: By.name: username
+2026-05-14 11:47:28 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_001
+2026-05-14 11:47:28 INFO  core.utils.ElementHelper - Typing text into element: By.name: username
+2026-05-14 11:47:28 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_004
+2026-05-14 11:47:28 INFO  core.utils.ElementHelper - Typing text into element: By.name: email
+2026-05-14 11:47:28 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_004
+2026-05-14 11:47:28 INFO  core.utils.ElementHelper - Typing text into element: By.name: username
+2026-05-14 11:47:28 INFO  core.utils.ElementHelper - Typing text into element: By.name: email
+2026-05-14 11:47:28 INFO  core.utils.ElementHelper - Typing text into element: By.name: email
+2026-05-14 11:47:28 INFO  core.utils.ElementHelper - Typing text into element: By.name: email
+2026-05-14 11:47:28 INFO  core.utils.ElementHelper - Typing text into element: By.name: password
+2026-05-14 11:47:28 INFO  core.utils.ElementHelper - Typing text into element: By.name: email
+2026-05-14 11:47:28 INFO  core.utils.ElementHelper - Typing text into element: By.name: password
+2026-05-14 11:47:28 INFO  core.utils.ElementHelper - Typing text into element: By.name: password
+2026-05-14 11:47:29 INFO  core.utils.ElementHelper - Typing text into element: By.name: password
+2026-05-14 11:47:29 INFO  core.utils.ElementHelper - Typing text into element: By.name: password
+2026-05-14 11:47:29 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_009
+2026-05-14 11:47:29 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_009
+2026-05-14 11:47:29 INFO  core.utils.ElementHelper - Typing text into element: By.name: username
+2026-05-14 11:47:29 INFO  core.utils.ElementHelper - Typing text into element: By.name: confirmPassword
+2026-05-14 11:47:29 INFO  core.utils.ElementHelper - Typing text into element: By.name: confirmPassword
+2026-05-14 11:47:29 INFO  core.utils.ElementHelper - Typing text into element: By.name: confirmPassword
+2026-05-14 11:47:29 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_005
+2026-05-14 11:47:29 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_005
+2026-05-14 11:47:29 INFO  core.utils.ElementHelper - Typing text into element: By.name: username
+2026-05-14 11:47:29 INFO  core.utils.ElementHelper - Typing text into element: By.name: confirmPassword
+2026-05-14 11:47:30 INFO  core.utils.ElementHelper - Typing text into element: By.name: confirmPassword
+2026-05-14 11:47:30 INFO  core.utils.ElementHelper - Clicking element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 11:47:30 INFO  core.utils.ElementHelper - Clicking element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 11:47:30 INFO  core.utils.ElementHelper - Typing text into element: By.name: email
+2026-05-14 11:47:30 INFO  core.utils.ElementHelper - Clicking element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 11:47:30 INFO  core.utils.ElementHelper - Typing text into element: By.name: email
+2026-05-14 11:47:30 INFO  core.utils.ElementHelper - Typing text into element: By.name: email
+2026-05-14 11:47:30 INFO  core.utils.ElementHelper - Clicking element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 11:47:30 INFO  core.utils.ElementHelper - Clicking element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 11:47:30 INFO  core.utils.ElementHelper - Typing text into element: By.name: password
+2026-05-14 11:47:30 INFO  core.utils.ElementHelper - Typing text into element: By.name: password
+2026-05-14 11:47:30 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_008
+2026-05-14 11:47:31 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_008
+2026-05-14 11:47:31 INFO  core.utils.ElementHelper - Typing text into element: By.name: username
+2026-05-14 11:47:31 INFO  core.utils.ElementHelper - Typing text into element: By.name: password
+2026-05-14 11:47:31 WARN  core.utils.ElementHelper - Normal click failed. Using JS click for: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 11:47:31 WARN  core.utils.ElementHelper - Normal click failed. Using JS click for: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 11:47:31 WARN  core.utils.ElementHelper - Normal click failed. Using JS click for: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 11:47:31 INFO  core.utils.ElementHelper - Scrolling to element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 11:47:31 INFO  core.utils.ElementHelper - Scrolling to element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 11:47:31 INFO  core.utils.ElementHelper - Typing text into element: By.name: confirmPassword
+2026-05-14 11:47:31 INFO  core.utils.ElementHelper - Typing text into element: By.name: email
+2026-05-14 11:47:32 INFO  core.utils.ElementHelper - Scrolling to element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 11:47:32 INFO  core.utils.ElementHelper - Typing text into element: By.name: confirmPassword
+2026-05-14 11:47:32 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-14 11:47:32 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-14 11:47:32 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_010
+2026-05-14 11:47:32 INFO  core.utils.ElementHelper - Typing text into element: By.name: confirmPassword
+2026-05-14 11:47:32 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_007
+2026-05-14 11:47:32 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_010
+2026-05-14 11:47:32 INFO  core.utils.ElementHelper - Getting text from element: By.id: pw-match-msg
+2026-05-14 11:47:32 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_007
+2026-05-14 11:47:32 WARN  core.utils.ElementHelper - Normal click failed. Using JS click for: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 11:47:32 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_002
+2026-05-14 11:47:32 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_002
+2026-05-14 11:47:32 WARN  core.utils.ElementHelper - Normal click failed. Using JS click for: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 11:47:32 INFO  core.utils.ElementHelper - Scrolling to element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 11:47:32 INFO  core.utils.ElementHelper - Scrolling to element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 11:47:33 INFO  core.utils.ElementHelper - Typing text into element: By.name: password
+2026-05-14 11:47:33 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_006
+2026-05-14 11:47:33 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_006
+2026-05-14 11:47:33 INFO  core.utils.ElementHelper - Clicking element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 11:47:33 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_001
+2026-05-14 11:47:33 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_001
+2026-05-14 11:47:33 INFO  core.utils.ElementHelper - Getting text from element: By.id: pw-match-msg
+2026-05-14 11:47:33 INFO  core.utils.ElementHelper - Clicking element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 11:47:33 INFO  core.utils.ElementHelper - Clicking element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 11:47:34 INFO  core.utils.ElementHelper - Typing text into element: By.name: confirmPassword
+2026-05-14 11:47:34 INFO  core.utils.ElementHelper - Clicking element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 11:47:35 WARN  core.utils.ElementHelper - Normal click failed. Using JS click for: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 11:47:35 WARN  core.utils.ElementHelper - Normal click failed. Using JS click for: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 11:47:35 INFO  core.utils.ElementHelper - Scrolling to element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 11:47:35 WARN  core.utils.ElementHelper - Normal click failed. Using JS click for: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 11:47:35 INFO  core.utils.ElementHelper - Scrolling to element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 11:47:35 INFO  core.utils.ElementHelper - Scrolling to element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 11:47:35 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_009
+2026-05-14 11:47:35 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_009
+2026-05-14 11:47:35 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_003
+2026-05-14 11:47:35 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_003
+2026-05-14 11:47:35 INFO  core.utils.ElementHelper - Typing text into element: By.name: username
+2026-05-14 11:47:36 INFO  core.utils.ElementHelper - Typing text into element: By.name: email
+2026-05-14 11:47:36 WARN  core.utils.ElementHelper - Normal click failed. Using JS click for: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 11:47:36 INFO  core.utils.ElementHelper - Scrolling to element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 11:47:36 INFO  core.utils.ElementHelper - Typing text into element: By.name: password
+2026-05-14 11:47:36 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_004
+2026-05-14 11:47:36 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_005
+2026-05-14 11:47:36 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_004
+2026-05-14 11:47:36 INFO  core.utils.ElementHelper - Getting text from element: By.id: pw-match-msg
+2026-05-14 11:47:36 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_005
+2026-05-14 11:47:36 INFO  core.utils.ElementHelper - Getting text from element: By.id: pw-match-msg
+2026-05-14 11:47:36 INFO  core.utils.ElementHelper - Typing text into element: By.name: confirmPassword
+2026-05-14 11:47:36 INFO  core.utils.ElementHelper - Clicking element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 11:47:36 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_008
+2026-05-14 11:47:36 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_008
+2026-05-14 11:47:36 INFO  core.utils.ElementHelper - Getting text from element: By.id: pw-match-msg
+2026-05-14 11:47:37 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-14 11:47:37 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-14 11:47:37 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-14 11:47:37 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-14 11:47:37 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-14 11:47:37 WARN  core.utils.ElementHelper - Normal click failed. Using JS click for: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 11:47:38 INFO  core.utils.ElementHelper - Scrolling to element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 11:47:38 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_003
+2026-05-14 11:47:38 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_003
+2026-05-14 11:47:38 INFO  core.utils.ElementHelper - Getting text from element: By.id: pw-match-msg
+2026-05-14 11:47:38 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-14 11:47:38 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-14 11:47:38 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-14 11:47:38 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-14 11:47:38 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-14 11:47:38 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-14 11:47:38 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-14 11:47:38 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-14 11:47:39 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-14 11:47:39 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-14 11:47:43 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_011
+2026-05-14 11:47:43 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_011
+2026-05-14 11:47:43 INFO  core.utils.ElementHelper - Typing text into element: By.name: username
+2026-05-14 11:47:43 INFO  core.utils.ElementHelper - Typing text into element: By.name: email
+2026-05-14 11:47:43 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-14 11:47:43 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-14 11:47:43 INFO  core.utils.ElementHelper - Typing text into element: By.name: password
+2026-05-14 11:47:43 INFO  core.utils.ElementHelper - Typing text into element: By.name: confirmPassword
+2026-05-14 11:47:43 INFO  core.utils.ElementHelper - Clicking element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 11:47:44 WARN  core.utils.ElementHelper - Normal click failed. Using JS click for: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 11:47:45 INFO  core.utils.ElementHelper - Scrolling to element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 11:47:45 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_011
+2026-05-14 11:47:45 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_011
+2026-05-14 11:47:45 INFO  core.utils.ElementHelper - Getting text from element: By.id: pw-match-msg
+2026-05-14 11:47:47 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-14 11:47:47 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-14 11:47:47 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-14 11:47:47 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-14 11:47:48 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-14 11:47:48 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-14 11:47:49 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-14 11:47:49 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-14 11:47:55 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-14 11:47:55 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-14 11:58:29 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-14 11:58:29 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-14 11:58:29 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-14 11:58:29 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-14 11:58:29 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-14 11:58:29 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-14 11:58:29 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-14 11:58:29 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-14 11:58:29 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-14 11:58:29 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-14 11:58:29 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-14 11:58:29 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-14 11:58:29 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-14 11:58:29 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-14 11:58:29 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-14 11:58:29 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-14 11:58:29 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-14 11:58:29 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-14 11:58:29 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-14 11:58:29 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-14 11:58:29 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-14 11:58:29 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-14 11:58:29 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-14 11:58:29 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-14 11:58:29 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-14 11:58:29 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-14 11:58:29 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-14 11:58:29 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-14 11:58:29 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-14 11:58:29 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-14 11:58:41 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-14 11:58:41 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-14 11:58:41 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-14 11:58:41 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-14 11:58:41 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-14 11:58:41 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-14 11:58:41 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-14 11:58:41 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-14 11:58:41 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-14 11:58:41 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-14 11:58:41 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-14 11:58:41 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-14 11:58:41 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-14 11:58:41 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-14 11:58:41 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-14 11:58:41 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-14 11:58:41 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-14 11:58:41 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-14 11:58:41 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-14 11:58:41 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-14 11:58:56 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_002
+2026-05-14 11:58:58 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_002
+2026-05-14 11:58:58 INFO  core.utils.ElementHelper - Typing text into element: By.name: username
+2026-05-14 11:58:58 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_004
+2026-05-14 11:58:58 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_004
+2026-05-14 11:58:58 INFO  core.utils.ElementHelper - Typing text into element: By.name: username
+2026-05-14 11:58:59 INFO  core.utils.ElementHelper - Typing text into element: By.name: email
+2026-05-14 11:58:59 INFO  core.utils.ElementHelper - Typing text into element: By.name: email
+2026-05-14 11:58:59 INFO  core.utils.ElementHelper - Typing text into element: By.name: password
+2026-05-14 11:59:00 INFO  core.utils.ElementHelper - Typing text into element: By.name: password
+2026-05-14 11:59:00 INFO  core.utils.ElementHelper - Typing text into element: By.name: confirmPassword
+2026-05-14 11:59:00 INFO  core.utils.ElementHelper - Typing text into element: By.name: confirmPassword
+2026-05-14 11:59:00 INFO  core.utils.ElementHelper - Clicking element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 11:59:00 INFO  core.utils.ElementHelper - Clicking element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 11:59:01 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_007
+2026-05-14 11:59:01 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_005
+2026-05-14 11:59:01 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_005
+2026-05-14 11:59:01 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_007
+2026-05-14 11:59:01 INFO  core.utils.ElementHelper - Typing text into element: By.name: username
+2026-05-14 11:59:01 INFO  core.utils.ElementHelper - Typing text into element: By.name: username
+2026-05-14 11:59:02 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_001
+2026-05-14 11:59:02 WARN  core.utils.ElementHelper - Normal click failed. Using JS click for: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 11:59:02 WARN  core.utils.ElementHelper - Normal click failed. Using JS click for: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 11:59:02 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_001
+2026-05-14 11:59:02 INFO  core.utils.ElementHelper - Typing text into element: By.name: username
+2026-05-14 11:59:02 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_008
+2026-05-14 11:59:02 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_008
+2026-05-14 11:59:02 INFO  core.utils.ElementHelper - Typing text into element: By.name: username
+2026-05-14 11:59:02 INFO  core.utils.ElementHelper - Scrolling to element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 11:59:02 INFO  core.utils.ElementHelper - Scrolling to element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 11:59:03 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_002
+2026-05-14 11:59:03 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_002
+2026-05-14 11:59:03 INFO  core.utils.ElementHelper - Typing text into element: By.name: email
+2026-05-14 11:59:03 INFO  core.utils.ElementHelper - Typing text into element: By.name: email
+2026-05-14 11:59:03 INFO  core.utils.ElementHelper - Typing text into element: By.name: email
+2026-05-14 11:59:03 INFO  core.utils.ElementHelper - Typing text into element: By.name: email
+2026-05-14 11:59:04 INFO  core.utils.ElementHelper - Typing text into element: By.name: password
+2026-05-14 11:59:04 INFO  core.utils.ElementHelper - Typing text into element: By.name: password
+2026-05-14 11:59:04 INFO  core.utils.ElementHelper - Typing text into element: By.name: password
+2026-05-14 11:59:04 INFO  core.utils.ElementHelper - Typing text into element: By.name: password
+2026-05-14 11:59:04 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_010
+2026-05-14 11:59:04 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_010
+2026-05-14 11:59:04 INFO  core.utils.ElementHelper - Typing text into element: By.name: username
+2026-05-14 11:59:04 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_006
+2026-05-14 11:59:04 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_003
+2026-05-14 11:59:04 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_009
+2026-05-14 11:59:05 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_009
+2026-05-14 11:59:05 INFO  core.utils.ElementHelper - Typing text into element: By.name: username
+2026-05-14 11:59:05 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_003
+2026-05-14 11:59:05 INFO  core.utils.ElementHelper - Typing text into element: By.name: username
+2026-05-14 11:59:05 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_006
+2026-05-14 11:59:05 INFO  core.utils.ElementHelper - Typing text into element: By.name: username
+2026-05-14 11:59:05 INFO  core.utils.ElementHelper - Typing text into element: By.name: confirmPassword
+2026-05-14 11:59:05 INFO  core.utils.ElementHelper - Typing text into element: By.name: confirmPassword
+2026-05-14 11:59:06 INFO  core.utils.ElementHelper - Typing text into element: By.name: confirmPassword
+2026-05-14 11:59:06 INFO  core.utils.ElementHelper - Typing text into element: By.name: confirmPassword
+2026-05-14 11:59:06 INFO  core.utils.ElementHelper - Typing text into element: By.name: email
+2026-05-14 11:59:06 INFO  core.utils.ElementHelper - Typing text into element: By.name: email
+2026-05-14 11:59:06 INFO  core.utils.ElementHelper - Clicking element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 11:59:06 INFO  core.utils.ElementHelper - Typing text into element: By.name: email
+2026-05-14 11:59:06 INFO  core.utils.ElementHelper - Typing text into element: By.name: email
+2026-05-14 11:59:06 INFO  core.utils.ElementHelper - Clicking element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 11:59:06 INFO  core.utils.ElementHelper - Clicking element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 11:59:06 INFO  core.utils.ElementHelper - Clicking element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 11:59:07 INFO  core.utils.ElementHelper - Typing text into element: By.name: password
+2026-05-14 11:59:07 INFO  core.utils.ElementHelper - Typing text into element: By.name: password
+2026-05-14 11:59:07 INFO  core.utils.ElementHelper - Typing text into element: By.name: password
+2026-05-14 11:59:07 INFO  core.utils.ElementHelper - Typing text into element: By.name: password
+2026-05-14 11:59:07 INFO  core.utils.ElementHelper - Typing text into element: By.name: confirmPassword
+2026-05-14 11:59:07 INFO  core.utils.ElementHelper - Typing text into element: By.name: confirmPassword
+2026-05-14 11:59:07 INFO  core.utils.ElementHelper - Typing text into element: By.name: confirmPassword
+2026-05-14 11:59:07 INFO  core.utils.ElementHelper - Typing text into element: By.name: confirmPassword
+2026-05-14 11:59:07 WARN  core.utils.ElementHelper - Normal click failed. Using JS click for: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 11:59:07 INFO  core.utils.ElementHelper - Clicking element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 11:59:07 INFO  core.utils.ElementHelper - Clicking element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 11:59:08 INFO  core.utils.ElementHelper - Scrolling to element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 11:59:08 INFO  core.utils.ElementHelper - Clicking element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 11:59:08 WARN  core.utils.ElementHelper - Normal click failed. Using JS click for: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 11:59:08 INFO  core.utils.ElementHelper - Clicking element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 11:59:08 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_004
+2026-05-14 11:59:08 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_004
+2026-05-14 11:59:08 INFO  core.utils.ElementHelper - Getting text from element: By.id: pw-match-msg
+2026-05-14 11:59:08 WARN  core.utils.ElementHelper - Normal click failed. Using JS click for: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 11:59:08 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_001
+2026-05-14 11:59:08 WARN  core.utils.ElementHelper - Normal click failed. Using JS click for: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 11:59:08 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_001
+2026-05-14 11:59:08 INFO  core.utils.ElementHelper - Getting text from element: By.id: pw-match-msg
+2026-05-14 11:59:08 INFO  core.utils.ElementHelper - Scrolling to element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 11:59:08 INFO  core.utils.ElementHelper - Scrolling to element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 11:59:08 INFO  core.utils.ElementHelper - Scrolling to element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 11:59:08 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_007
+2026-05-14 11:59:09 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_007
+2026-05-14 11:59:09 WARN  core.utils.ElementHelper - Normal click failed. Using JS click for: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 11:59:09 WARN  core.utils.ElementHelper - Normal click failed. Using JS click for: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 11:59:09 INFO  core.utils.ElementHelper - Scrolling to element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 11:59:09 INFO  core.utils.ElementHelper - Scrolling to element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 11:59:09 WARN  core.utils.ElementHelper - Normal click failed. Using JS click for: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 11:59:09 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_010
+2026-05-14 11:59:09 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_003
+2026-05-14 11:59:09 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_010
+2026-05-14 11:59:09 INFO  core.utils.ElementHelper - Getting text from element: By.id: pw-match-msg
+2026-05-14 11:59:09 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_003
+2026-05-14 11:59:09 INFO  core.utils.ElementHelper - Getting text from element: By.id: pw-match-msg
+2026-05-14 11:59:09 INFO  core.utils.ElementHelper - Scrolling to element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 11:59:10 WARN  core.utils.ElementHelper - Normal click failed. Using JS click for: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 11:59:10 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_009
+2026-05-14 11:59:10 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_009
+2026-05-14 11:59:10 INFO  core.utils.ElementHelper - Scrolling to element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 11:59:10 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_006
+2026-05-14 11:59:10 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_006
+2026-05-14 11:59:12 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-14 11:59:12 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-14 11:59:12 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-14 11:59:12 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-14 11:59:12 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-14 11:59:12 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-14 11:59:12 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-14 11:59:12 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-14 11:59:12 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-14 11:59:12 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-14 11:59:12 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-14 11:59:12 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-14 11:59:12 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-14 11:59:13 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-14 11:59:13 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-14 11:59:14 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_005
+2026-05-14 11:59:14 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_005
+2026-05-14 11:59:14 INFO  core.utils.ElementHelper - Getting text from element: By.id: pw-match-msg
+2026-05-14 11:59:18 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_008
+2026-05-14 11:59:18 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_008
+2026-05-14 11:59:18 INFO  core.utils.ElementHelper - Getting text from element: By.id: pw-match-msg
+2026-05-14 11:59:19 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-14 11:59:19 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-14 11:59:21 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-14 11:59:21 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-14 11:59:21 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-14 11:59:21 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-14 11:59:25 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-14 11:59:25 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-14 11:59:29 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-14 11:59:29 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-14 11:59:51 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_011
+2026-05-14 11:59:51 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_011
+2026-05-14 11:59:51 INFO  core.utils.ElementHelper - Typing text into element: By.name: username
+2026-05-14 11:59:51 INFO  core.utils.ElementHelper - Typing text into element: By.name: email
+2026-05-14 11:59:52 INFO  core.utils.ElementHelper - Typing text into element: By.name: password
+2026-05-14 11:59:52 INFO  core.utils.ElementHelper - Typing text into element: By.name: confirmPassword
+2026-05-14 11:59:52 INFO  core.utils.ElementHelper - Clicking element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 11:59:53 WARN  core.utils.ElementHelper - Normal click failed. Using JS click for: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 11:59:53 INFO  core.utils.ElementHelper - Scrolling to element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 11:59:53 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_011
+2026-05-14 11:59:53 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_011
+2026-05-14 11:59:53 INFO  core.utils.ElementHelper - Getting text from element: By.id: pw-match-msg
+2026-05-14 12:00:04 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-14 12:00:04 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-14 15:20:18 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-14 15:20:18 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-14 15:20:18 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-14 15:20:18 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-14 15:20:18 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-14 15:20:18 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-14 15:20:18 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-14 15:20:18 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-14 15:20:18 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-14 15:20:18 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-14 15:20:18 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-14 15:20:18 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-14 15:20:18 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-14 15:20:18 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-14 15:20:18 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-14 15:20:18 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-14 15:20:18 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-14 15:20:18 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-14 15:20:18 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-14 15:20:18 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-14 15:20:18 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-14 15:20:18 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-14 15:20:18 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-14 15:20:18 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-14 15:20:18 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-14 15:20:18 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-14 15:20:18 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-14 15:20:18 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-14 15:20:18 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-14 15:20:18 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-14 15:20:48 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-14 15:20:48 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-14 15:20:49 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-14 15:20:49 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-14 15:20:50 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-14 15:20:50 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-14 15:20:51 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-14 15:20:51 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-14 15:20:55 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_003
+2026-05-14 15:20:56 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-14 15:20:56 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-14 15:20:57 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_003
+2026-05-14 15:20:57 INFO  core.utils.ElementHelper - Typing text into element: By.name: username
+2026-05-14 15:20:58 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-14 15:20:58 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-14 15:20:58 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-14 15:20:58 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-14 15:21:00 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-14 15:21:00 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-14 15:21:01 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_001
+2026-05-14 15:21:01 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_006
+2026-05-14 15:21:01 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_001
+2026-05-14 15:21:01 INFO  core.utils.ElementHelper - Typing text into element: By.name: username
+2026-05-14 15:21:01 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_006
+2026-05-14 15:21:01 INFO  core.utils.ElementHelper - Typing text into element: By.name: username
+2026-05-14 15:21:01 INFO  core.utils.ElementHelper - Typing text into element: By.name: email
+2026-05-14 15:21:01 INFO  core.utils.ElementHelper - Typing text into element: By.name: email
+2026-05-14 15:21:01 INFO  core.utils.ElementHelper - Typing text into element: By.name: email
+2026-05-14 15:21:01 INFO  core.utils.ElementHelper - Typing text into element: By.name: password
+2026-05-14 15:21:01 INFO  core.utils.ElementHelper - Typing text into element: By.name: password
+2026-05-14 15:21:01 INFO  core.utils.ElementHelper - Typing text into element: By.name: confirmPassword
+2026-05-14 15:21:01 INFO  core.utils.ElementHelper - Typing text into element: By.name: password
+2026-05-14 15:21:02 INFO  core.utils.ElementHelper - Clicking element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 15:21:02 INFO  core.utils.ElementHelper - Typing text into element: By.name: confirmPassword
+2026-05-14 15:21:02 INFO  core.utils.ElementHelper - Typing text into element: By.name: confirmPassword
+2026-05-14 15:21:02 INFO  core.utils.ElementHelper - Clicking element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 15:21:02 INFO  core.utils.ElementHelper - Clicking element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 15:21:02 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_004
+2026-05-14 15:21:02 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_004
+2026-05-14 15:21:02 INFO  core.utils.ElementHelper - Typing text into element: By.name: username
+2026-05-14 15:21:03 INFO  core.utils.ElementHelper - Typing text into element: By.name: email
+2026-05-14 15:21:03 WARN  core.utils.ElementHelper - Normal click failed. Using JS click for: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 15:21:03 INFO  core.utils.ElementHelper - Scrolling to element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 15:21:03 INFO  core.utils.ElementHelper - Typing text into element: By.name: password
+2026-05-14 15:21:03 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_003
+2026-05-14 15:21:03 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_003
+2026-05-14 15:21:03 INFO  core.utils.ElementHelper - Getting text from element: By.id: pw-match-msg
+2026-05-14 15:21:03 WARN  core.utils.ElementHelper - Normal click failed. Using JS click for: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 15:21:03 WARN  core.utils.ElementHelper - Normal click failed. Using JS click for: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 15:21:03 INFO  core.utils.ElementHelper - Typing text into element: By.name: confirmPassword
+2026-05-14 15:21:03 INFO  core.utils.ElementHelper - Scrolling to element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 15:21:03 INFO  core.utils.ElementHelper - Scrolling to element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 15:21:03 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_006
+2026-05-14 15:21:03 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_001
+2026-05-14 15:21:03 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_001
+2026-05-14 15:21:03 INFO  core.utils.ElementHelper - Getting text from element: By.id: pw-match-msg
+2026-05-14 15:21:03 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_006
+2026-05-14 15:21:04 INFO  core.utils.ElementHelper - Clicking element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 15:21:05 WARN  core.utils.ElementHelper - Normal click failed. Using JS click for: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 15:21:05 INFO  core.utils.ElementHelper - Scrolling to element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 15:21:05 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-14 15:21:05 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-14 15:21:05 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-14 15:21:05 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-14 15:21:05 INFO  core.driver.DriverFactory - Initializing browser: chrome
+2026-05-14 15:21:05 INFO  core.driver.DriverFactory - Headless mode: false
+2026-05-14 15:21:05 INFO  core.driver.DriverFactory - Healenium enabled: false
+2026-05-14 15:21:07 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-14 15:21:07 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-14 15:21:08 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_004
+2026-05-14 15:21:08 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_004
+2026-05-14 15:21:08 INFO  core.utils.ElementHelper - Getting text from element: By.id: pw-match-msg
+2026-05-14 15:21:10 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-14 15:21:10 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-14 15:21:14 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-14 15:21:14 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-14 15:21:19 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-14 15:21:19 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-14 15:21:28 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_007
+2026-05-14 15:21:28 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_008
+2026-05-14 15:21:28 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_008
+2026-05-14 15:21:28 INFO  core.utils.ElementHelper - Typing text into element: By.name: username
+2026-05-14 15:21:28 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_007
+2026-05-14 15:21:28 INFO  core.utils.ElementHelper - Typing text into element: By.name: username
+2026-05-14 15:21:28 INFO  core.utils.ElementHelper - Typing text into element: By.name: email
+2026-05-14 15:21:28 INFO  core.utils.ElementHelper - Typing text into element: By.name: email
+2026-05-14 15:21:28 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_010
+2026-05-14 15:21:28 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_002
+2026-05-14 15:21:28 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_010
+2026-05-14 15:21:28 INFO  core.utils.ElementHelper - Typing text into element: By.name: username
+2026-05-14 15:21:28 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_002
+2026-05-14 15:21:28 INFO  core.utils.ElementHelper - Typing text into element: By.name: username
+2026-05-14 15:21:28 INFO  core.utils.ElementHelper - Typing text into element: By.name: password
+2026-05-14 15:21:28 INFO  core.utils.ElementHelper - Typing text into element: By.name: password
+2026-05-14 15:21:28 INFO  core.utils.ElementHelper - Typing text into element: By.name: email
+2026-05-14 15:21:28 INFO  core.utils.ElementHelper - Typing text into element: By.name: email
+2026-05-14 15:21:28 INFO  core.utils.ElementHelper - Typing text into element: By.name: confirmPassword
+2026-05-14 15:21:28 INFO  core.utils.ElementHelper - Typing text into element: By.name: confirmPassword
+2026-05-14 15:21:28 INFO  core.utils.ElementHelper - Typing text into element: By.name: password
+2026-05-14 15:21:28 INFO  core.utils.ElementHelper - Typing text into element: By.name: password
+2026-05-14 15:21:28 INFO  core.utils.ElementHelper - Clicking element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 15:21:29 INFO  core.utils.ElementHelper - Clicking element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 15:21:29 INFO  core.utils.ElementHelper - Typing text into element: By.name: confirmPassword
+2026-05-14 15:21:29 INFO  core.utils.ElementHelper - Typing text into element: By.name: confirmPassword
+2026-05-14 15:21:29 INFO  core.utils.ElementHelper - Clicking element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 15:21:29 INFO  core.utils.ElementHelper - Clicking element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 15:21:30 WARN  core.utils.ElementHelper - Normal click failed. Using JS click for: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 15:21:30 WARN  core.utils.ElementHelper - Normal click failed. Using JS click for: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 15:21:30 INFO  core.utils.ElementHelper - Scrolling to element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 15:21:30 INFO  core.utils.ElementHelper - Scrolling to element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 15:21:30 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_007
+2026-05-14 15:21:30 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_007
+2026-05-14 15:21:30 WARN  core.utils.ElementHelper - Normal click failed. Using JS click for: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 15:21:30 WARN  core.utils.ElementHelper - Normal click failed. Using JS click for: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 15:21:30 INFO  core.utils.ElementHelper - Scrolling to element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 15:21:30 INFO  core.utils.ElementHelper - Scrolling to element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 15:21:30 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_002
+2026-05-14 15:21:30 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_002
+2026-05-14 15:21:30 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_010
+2026-05-14 15:21:30 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_010
+2026-05-14 15:21:30 INFO  core.utils.ElementHelper - Getting text from element: By.id: pw-match-msg
+2026-05-14 15:21:31 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-14 15:21:31 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-14 15:21:31 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-14 15:21:31 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-14 15:21:36 INFO  core.driver.DriverFactory - Browser initialized successfully
+2026-05-14 15:21:36 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-14 15:21:41 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-14 15:21:41 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-14 15:21:43 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_011
+2026-05-14 15:21:43 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_011
+2026-05-14 15:21:43 INFO  core.utils.ElementHelper - Typing text into element: By.name: username
+2026-05-14 15:21:44 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_008
+2026-05-14 15:21:44 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_005
+2026-05-14 15:21:44 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_008
+2026-05-14 15:21:44 INFO  core.utils.ElementHelper - Getting text from element: By.id: pw-match-msg
+2026-05-14 15:21:44 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_005
+2026-05-14 15:21:44 INFO  core.utils.ElementHelper - Typing text into element: By.name: username
+2026-05-14 15:21:44 INFO  core.utils.ElementHelper - Typing text into element: By.name: email
+2026-05-14 15:21:44 INFO  core.utils.ElementHelper - Typing text into element: By.name: password
+2026-05-14 15:21:44 INFO  core.utils.ElementHelper - Typing text into element: By.name: confirmPassword
+2026-05-14 15:21:45 INFO  core.utils.ElementHelper - Clicking element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 15:21:46 WARN  core.utils.ElementHelper - Normal click failed. Using JS click for: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 15:21:46 INFO  core.utils.ElementHelper - Scrolling to element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 15:21:49 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_005
+2026-05-14 15:21:49 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_005
+2026-05-14 15:21:49 INFO  core.utils.ElementHelper - Getting text from element: By.id: pw-match-msg
+2026-05-14 15:21:54 INFO  core.utils.ElementHelper - Typing text into element: By.name: username
+2026-05-14 15:21:55 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-14 15:21:55 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-14 15:21:56 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_009
+2026-05-14 15:21:56 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_009
+2026-05-14 15:21:56 INFO  core.utils.ElementHelper - Typing text into element: By.name: username
+2026-05-14 15:21:57 INFO  core.utils.ElementHelper - Typing text into element: By.name: email
+2026-05-14 15:21:57 INFO  core.utils.ElementHelper - Typing text into element: By.name: password
+2026-05-14 15:21:57 INFO  core.utils.ElementHelper - Typing text into element: By.name: confirmPassword
+2026-05-14 15:21:57 INFO  core.utils.ElementHelper - Clicking element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 15:21:58 WARN  core.utils.ElementHelper - Normal click failed. Using JS click for: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 15:21:58 INFO  core.utils.ElementHelper - Scrolling to element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 15:21:58 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_009
+2026-05-14 15:21:58 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_009
+2026-05-14 15:21:59 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-14 15:21:59 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-14 15:22:00 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-14 15:22:00 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-14 15:22:05 INFO  core.utils.ElementHelper - Typing text into element: By.name: username
+2026-05-14 15:22:16 INFO  core.driver.DriverFactory - Driver closed successfully
+2026-05-14 15:22:16 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-14 15:43:27 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-14 15:43:27 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-14 15:43:27 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-14 15:43:27 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-14 15:43:27 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-14 15:43:27 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-14 15:43:27 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-14 15:43:27 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-14 15:43:27 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-14 15:43:27 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-14 15:43:27 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-14 15:46:30 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-14 15:46:30 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-14 15:46:30 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-14 15:46:30 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-14 15:46:30 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-14 15:46:30 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-14 15:46:30 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-14 15:46:30 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-14 15:46:30 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-14 15:46:30 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-14 15:46:31 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-14 15:57:07 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-14 15:57:07 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-14 15:57:07 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-14 15:57:07 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-14 15:57:07 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-14 15:57:07 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-14 15:57:07 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-14 15:57:07 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-14 15:57:07 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-14 15:57:07 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-14 15:57:10 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_010
+2026-05-14 15:57:10 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_004
+2026-05-14 15:57:10 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_005
+2026-05-14 15:57:10 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_001
+2026-05-14 15:57:11 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_010
+2026-05-14 15:57:11 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_005
+2026-05-14 15:57:11 INFO  core.utils.ElementHelper - Typing text into element: By.name: username
+2026-05-14 15:57:11 INFO  core.utils.ElementHelper - Typing text into element: By.name: username
+2026-05-14 15:57:11 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_001
+2026-05-14 15:57:11 INFO  core.utils.ElementHelper - Typing text into element: By.name: username
+2026-05-14 15:57:11 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_004
+2026-05-14 15:57:11 INFO  core.utils.ElementHelper - Typing text into element: By.name: username
+2026-05-14 15:57:13 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_008
+2026-05-14 15:57:13 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_008
+2026-05-14 15:57:13 INFO  core.utils.ElementHelper - Typing text into element: By.name: username
+2026-05-14 15:57:14 INFO  core.utils.ElementHelper - Typing text into element: By.name: email
+2026-05-14 15:57:14 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_003
+2026-05-14 15:57:14 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_007
+2026-05-14 15:57:14 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_003
+2026-05-14 15:57:14 INFO  core.utils.ElementHelper - Typing text into element: By.name: username
+2026-05-14 15:57:14 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_007
+2026-05-14 15:57:14 INFO  core.utils.ElementHelper - Typing text into element: By.name: username
+2026-05-14 15:57:14 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_006
+2026-05-14 15:57:14 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_009
+2026-05-14 15:57:14 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_002
+2026-05-14 15:57:14 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_006
+2026-05-14 15:57:14 INFO  core.utils.ElementHelper - Typing text into element: By.name: username
+2026-05-14 15:57:14 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_009
+2026-05-14 15:57:14 INFO  core.utils.ElementHelper - Typing text into element: By.name: username
+2026-05-14 15:57:14 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_002
+2026-05-14 15:57:14 INFO  core.utils.ElementHelper - Typing text into element: By.name: username
+2026-05-14 15:57:14 INFO  core.utils.ElementHelper - Typing text into element: By.name: password
+2026-05-14 15:57:14 INFO  core.utils.ElementHelper - Typing text into element: By.name: email
+2026-05-14 15:57:15 INFO  core.utils.ElementHelper - Typing text into element: By.name: email
+2026-05-14 15:57:15 INFO  core.utils.ElementHelper - Typing text into element: By.name: email
+2026-05-14 15:57:15 INFO  core.utils.ElementHelper - Typing text into element: By.name: email
+2026-05-14 15:57:15 INFO  core.utils.ElementHelper - Typing text into element: By.name: email
+2026-05-14 15:57:15 INFO  core.utils.ElementHelper - Typing text into element: By.name: email
+2026-05-14 15:57:15 INFO  core.utils.ElementHelper - Typing text into element: By.name: email
+2026-05-14 15:57:15 INFO  core.utils.ElementHelper - Typing text into element: By.name: email
+2026-05-14 15:57:15 INFO  core.utils.ElementHelper - Typing text into element: By.name: email
+2026-05-14 15:57:15 INFO  core.utils.ElementHelper - Typing text into element: By.name: password
+2026-05-14 15:57:15 INFO  core.utils.ElementHelper - Typing text into element: By.name: confirmPassword
+2026-05-14 15:57:15 INFO  core.utils.ElementHelper - Typing text into element: By.name: password
+2026-05-14 15:57:15 INFO  core.utils.ElementHelper - Typing text into element: By.name: password
+2026-05-14 15:57:15 INFO  core.utils.ElementHelper - Typing text into element: By.name: password
+2026-05-14 15:57:15 INFO  core.utils.ElementHelper - Typing text into element: By.name: password
+2026-05-14 15:57:15 INFO  core.utils.ElementHelper - Typing text into element: By.name: password
+2026-05-14 15:57:15 INFO  core.utils.ElementHelper - Typing text into element: By.name: password
+2026-05-14 15:57:15 INFO  core.utils.ElementHelper - Typing text into element: By.name: password
+2026-05-14 15:57:15 INFO  core.utils.ElementHelper - Typing text into element: By.name: password
+2026-05-14 15:57:15 INFO  core.utils.ElementHelper - Typing text into element: By.name: confirmPassword
+2026-05-14 15:57:15 INFO  core.utils.ElementHelper - Clicking element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 15:57:16 INFO  core.utils.ElementHelper - Clicking element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 15:57:16 INFO  core.utils.ElementHelper - Typing text into element: By.name: confirmPassword
+2026-05-14 15:57:16 INFO  core.utils.ElementHelper - Typing text into element: By.name: confirmPassword
+2026-05-14 15:57:16 INFO  core.utils.ElementHelper - Typing text into element: By.name: confirmPassword
+2026-05-14 15:57:16 INFO  core.utils.ElementHelper - Typing text into element: By.name: confirmPassword
+2026-05-14 15:57:16 INFO  core.utils.ElementHelper - Typing text into element: By.name: confirmPassword
+2026-05-14 15:57:16 INFO  core.utils.ElementHelper - Typing text into element: By.name: confirmPassword
+2026-05-14 15:57:16 INFO  core.utils.ElementHelper - Typing text into element: By.name: confirmPassword
+2026-05-14 15:57:16 INFO  core.utils.ElementHelper - Typing text into element: By.name: confirmPassword
+2026-05-14 15:57:16 INFO  core.utils.ElementHelper - Clicking element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 15:57:16 INFO  core.utils.ElementHelper - Clicking element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 15:57:16 INFO  core.utils.ElementHelper - Clicking element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 15:57:16 INFO  core.utils.ElementHelper - Clicking element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 15:57:16 INFO  core.utils.ElementHelper - Clicking element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 15:57:16 INFO  core.utils.ElementHelper - Clicking element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 15:57:16 INFO  core.utils.ElementHelper - Clicking element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 15:57:16 INFO  core.utils.ElementHelper - Clicking element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 15:57:17 WARN  core.utils.ElementHelper - Normal click failed. Using JS click for: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 15:57:17 WARN  core.utils.ElementHelper - Normal click failed. Using JS click for: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 15:57:17 INFO  core.utils.ElementHelper - Scrolling to element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 15:57:17 INFO  core.utils.ElementHelper - Scrolling to element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 15:57:17 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_003
+2026-05-14 15:57:17 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_003
+2026-05-14 15:57:17 INFO  core.utils.ElementHelper - Getting text from element: By.id: pw-match-msg
+2026-05-14 15:57:18 WARN  core.utils.ElementHelper - Normal click failed. Using JS click for: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 15:57:18 WARN  core.utils.ElementHelper - Normal click failed. Using JS click for: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 15:57:18 WARN  core.utils.ElementHelper - Normal click failed. Using JS click for: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 15:57:18 WARN  core.utils.ElementHelper - Normal click failed. Using JS click for: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 15:57:18 WARN  core.utils.ElementHelper - Normal click failed. Using JS click for: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 15:57:18 WARN  core.utils.ElementHelper - Normal click failed. Using JS click for: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 15:57:18 WARN  core.utils.ElementHelper - Normal click failed. Using JS click for: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 15:57:18 WARN  core.utils.ElementHelper - Normal click failed. Using JS click for: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 15:57:18 INFO  core.utils.ElementHelper - Scrolling to element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 15:57:18 INFO  core.utils.ElementHelper - Scrolling to element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 15:57:18 INFO  core.utils.ElementHelper - Scrolling to element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 15:57:18 INFO  core.utils.ElementHelper - Scrolling to element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 15:57:18 INFO  core.utils.ElementHelper - Scrolling to element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 15:57:18 INFO  core.utils.ElementHelper - Scrolling to element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 15:57:18 INFO  core.utils.ElementHelper - Scrolling to element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 15:57:18 INFO  core.utils.ElementHelper - Scrolling to element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 15:57:18 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_009
+2026-05-14 15:57:18 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_009
+2026-05-14 15:57:18 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_007
+2026-05-14 15:57:18 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_008
+2026-05-14 15:57:18 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_008
+2026-05-14 15:57:18 INFO  core.utils.ElementHelper - Getting text from element: By.id: pw-match-msg
+2026-05-14 15:57:18 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_007
+2026-05-14 15:57:19 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_006
+2026-05-14 15:57:19 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_010
+2026-05-14 15:57:19 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_006
+2026-05-14 15:57:19 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_001
+2026-05-14 15:57:19 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_010
+2026-05-14 15:57:19 INFO  core.utils.ElementHelper - Getting text from element: By.id: pw-match-msg
+2026-05-14 15:57:19 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_001
+2026-05-14 15:57:19 INFO  core.utils.ElementHelper - Getting text from element: By.id: pw-match-msg
+2026-05-14 15:57:19 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_002
+2026-05-14 15:57:19 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_002
+2026-05-14 15:57:20 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_004
+2026-05-14 15:57:20 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_004
+2026-05-14 15:57:20 INFO  core.utils.ElementHelper - Getting text from element: By.id: pw-match-msg
+2026-05-14 15:57:20 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_005
+2026-05-14 15:57:20 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_005
+2026-05-14 15:57:20 INFO  core.utils.ElementHelper - Getting text from element: By.id: pw-match-msg
+2026-05-14 15:57:24 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-14 15:57:24 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-14 15:57:24 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-14 15:57:24 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-14 15:57:24 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-14 15:57:25 INFO  core.hooks.Hooks - Starting Scenario: Register validation tests
+2026-05-14 15:57:28 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-14 15:57:29 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_011
+2026-05-14 15:57:29 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-14 15:57:29 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-14 15:57:29 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_011
+2026-05-14 15:57:29 INFO  core.utils.ElementHelper - Typing text into element: By.name: username
+2026-05-14 15:57:30 INFO  core.utils.ElementHelper - Typing text into element: By.name: email
+2026-05-14 15:57:30 INFO  core.utils.ElementHelper - Typing text into element: By.name: password
+2026-05-14 15:57:30 INFO  core.utils.ElementHelper - Typing text into element: By.name: confirmPassword
+2026-05-14 15:57:30 INFO  core.utils.ElementHelper - Clicking element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 15:57:31 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-14 15:57:31 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
+2026-05-14 15:57:31 WARN  core.utils.ElementHelper - Normal click failed. Using JS click for: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 15:57:32 INFO  core.utils.ElementHelper - Scrolling to element: By.xpath: //button[contains(text(),'Create Account')]
+2026-05-14 15:57:32 INFO  core.utils.ExcelReader - Reading test data from Excel. File: src/test/resources/testdata/RegisterData.xlsx, Sheet: Register, TestCase: TC_REGISTER_011
+2026-05-14 15:57:32 INFO  core.utils.ExcelReader - Test data loaded successfully for: TC_REGISTER_011
+2026-05-14 15:57:32 INFO  core.utils.ElementHelper - Getting text from element: By.id: pw-match-msg
+2026-05-14 15:57:42 INFO  core.hooks.Hooks - Finished Scenario: Register validation tests
